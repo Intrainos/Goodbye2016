@@ -1,0 +1,12 @@
+[package]
+name = "goodbye2016"
+version = "0.1.0"
+authors = ["Intrainos <git@intrainos.net>"]
+
+[dependencies]
+chrono = "0.2"
+
+[features]
+default = []
+debug = []
+UTC = []
